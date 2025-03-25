@@ -1,4 +1,4 @@
-# Recipe name mixed nuts 
+# Recipe name mixed nuts !
 
 ## Ingredients
 
